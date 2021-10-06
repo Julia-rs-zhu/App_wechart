@@ -5,8 +5,16 @@
       <map>
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/TextView.xml" value="0.2509057971014493" />
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/activity_main.xml" value="0.24365942028985507" />
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/bottom.xml" value="0.24365942028985507" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/fragment_faxian.xml" value="0.24728260869565216" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/fragment_pingjia.xml" value="0.22083333333333333" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/fragment_shezhi.xml" value="0.24728260869565216" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/fragment_tongxunlu.xml" value="0.22083333333333333" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/fragment_weixin.xml" value="0.22083333333333333" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/fragment_xinxi.xml" value="0.22083333333333333" />
+        <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/text.xml" value="0.2509057971014493" />
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/top.xml" value="0.24365942028985507" />
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/top2.xml" value="0.24365942028985507" />
         <entry key="..\:/code/AndroidProjects/wechart/app/src/main/res/layout/top3.xml" value="0.24365942028985507" />
