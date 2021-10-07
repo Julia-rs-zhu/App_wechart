@@ -8,8 +8,14 @@ import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
+import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
@@ -22,12 +28,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private View LinearLayout1,LinearLayout2,LinearLayout3,LinearLayout4;
     private ImageView imageWeixin,imagetongxunlu,imagefaxian,imageshezhi;
     private TextView textView;
+    private View listView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
+
 
         textView=findViewById(R.id.textView2);
 
